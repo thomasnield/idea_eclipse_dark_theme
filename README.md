@@ -1,7 +1,7 @@
 # Eclipse Dark Intellij IDEA Theme
 An Intellij IDEA port of the amazing [Eclipse Dark](http://guari.github.io/eclipse-ui-theme/) theme.
 
-Just import the JAR file into IDEA by clicking File -> Import Settings.
+Just import the JAR file into IDEA by clicking *File* -> *Import Settings*.
 
 **License**  
 This theme is made available under the terms of th
