@@ -1,8 +1,6 @@
 <scheme name="Eclipse Dark" version="142" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
-  <option name="CONSOLE_FONT_SIZE" value="12" />
   <option name="EDITOR_QUICK_DOC_FONT_SIZE" value="LARGE" />
   <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <colors>
@@ -570,6 +568,11 @@
     <option name="JAVA_STRING">
       <value>
         <option name="FOREGROUND" value="17c6a3" />
+      </value>
+    </option>
+    <option name="KOTLIN_ANNOTATION">
+      <value>
+        <option name="FOREGROUND" value="ff9393" />
       </value>
     </option>
     <option name="KOTLIN_PROPERTY_WITH_BACKING_FIELD">
