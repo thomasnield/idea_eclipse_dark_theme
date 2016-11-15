@@ -1,6 +1,8 @@
 # Eclipse Dark Intellij IDEA Theme
 An Intellij IDEA port of the amazing [Eclipse Dark](http://guari.github.io/eclipse-ui-theme/) theme.
 
+Currently supports Java, Kotlin, and Python (for PyCharm).
+
 Just import the JAR file into IDEA by clicking *File* -> *Import Settings*.
 
 **License**  
